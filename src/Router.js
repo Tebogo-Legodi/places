@@ -4,6 +4,7 @@ import { Router, Scene, Actions } from "react-native-router-flux";
 //Get Components
 import PlaceList from "./components/PlaceList";
 import Place from "./components/AddPlace";
+
 const RouterComponent = ()=>{
     return(
         <Router>
